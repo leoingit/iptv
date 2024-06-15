@@ -40,7 +40,6 @@ ViuTV6,http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D995062979950629
 香港国际财经台,https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 HOY TV,https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 HOY资讯台,https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-
 澳视澳门,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 澳视卫星,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 澳门体育,http://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
