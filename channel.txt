@@ -18,6 +18,9 @@ CCTV15,rtsp://115.153.245.70/PLTV/88888888/224/3221226988/85722541.smil
 CCTV16-4K,rtsp://115.153.245.70/PLTV/88888888/224/3221227051/92603106.smil
 CCTV17,rtsp://115.153.245.70/PLTV/88888888/224/3221226846/61397282.smil
 香港,#genre#
+凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 RHK31,http://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RHK32,http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 RTHK32,http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
