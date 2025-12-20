@@ -101,6 +101,8 @@ MOMOTV,rtmp://f13h.mine.nu/sat/tv761
 九江新闻综合,rtsp://115.153.254.117/PLTV/88888888/224/3221227268/122499157.smil
 九江公共,rtsp://115.153.254.117/PLTV/88888888/224/3221227270/122499168.smil
 九江教育,rtsp://115.153.254.117/PLTV/88888888/224/3221225607/iptv7994.smil
+上饶新闻综合，rtsp://115.153.245.70/PLTV/88888888/224/3221227291/126807638.smil
+上饶经济旅游，rtsp://115.153.245.70/PLTV/88888888/224/3221227293/126807873.smil
 
 卫视,#genre#
 湖南卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221225697/iptv8039.smil
@@ -442,6 +444,7 @@ Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
 MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
+
 
 
 
